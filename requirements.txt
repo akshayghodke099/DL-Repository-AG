@@ -1,0 +1,15 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+statsmodels
+ipykernel
+tensorflow
+keras
+opencv-python
+nltk
+yfinance
+Flask
+beautifulsoup4
+requests
